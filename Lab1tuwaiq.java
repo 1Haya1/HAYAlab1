@@ -40,12 +40,14 @@ class Main {
 //            }
 
         //3
-//        double radius = 7.5; // نصف قطر الدائره
-//        double perimeter = 2 * Math.PI * radius; // mathpi هو الباي,,
-//        double area = Math.PI * radius * radius; // المساحه
-//
-//        System.out.println("Perimeter is = " + perimeter);
-//        System.out.println("Area is = " + area);
+// //        Scanner s= new Scanner(System.in);
+//         System.out.println("Radius");
+//         double radius = s.nextDouble(); // نصف قطر الدائره
+//         double perimeter = 2 * Math.PI * radius; // mathpi هو الباي,,
+//         double area = Math.PI * radius * radius; // المساحه
+
+//         System.out.println("Perimeter is = " + perimeter);
+//         System.out.println("Area is = " + area);
 //
 
         //4
